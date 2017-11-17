@@ -10,6 +10,5 @@ If we reach a critical mass, we can discuss setting up a dedicated communication
 
 ## Kick-off meeting agenda/notes
 
-The [kick-off notes/agenda](kick-off-agenda-notes.md) that Greg put together are available. We'll add other notes as they come in. Alternatively, if you have your own notes you like to add, feel free!
-
+The [kick-off notes/agenda](kick-off-agenda-notes.md) that Greg put together are available. We'll add other notes as they come in. Alternatively, if you have your own notes you like to add, feel free! Just ping Hari or Andy for access.
 
